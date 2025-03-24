@@ -1,6 +1,6 @@
 # Amazon-Sales-Analysis
 
-1. Project Overview
+1.Project Overview
   Define the purpose: Analyzing sales performance, trends, and key insights.
   Identify stakeholders: Sales managers, executives, marketing teams.
 
